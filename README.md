@@ -1,13 +1,13 @@
 # BodyParts3D
-This repository contains a collection of 3D models of human anatomy. The 3D models are STL files which have been converted from the original `.obj` files from the BodyParts3D/Anatomography project: http://lifesciencedb.jp/bp3d/.
+This repository contains a collection of 3D models of human anatomy. The 3D models are [`stl` files](https://en.wikipedia.org/wiki/STL_%28file_format%29) which have been converted from the original `.obj` files from the BodyParts3D/Anatomography project: http://lifesciencedb.jp/bp3d/.
 
 ![Banner image](bannerImage.jpg)
 
 ## Getting started
 
 * The stl files are contained in the `stl` folder.
-* Most files are named using their **Foundational Model of Anatomy Ontology (FMA)** representation, which follows the format: FMA<_FMAID_>.stl.
-* In an effort to create a humn-readable list to interogate the files, the csv file `FMA_ID_label_obj.csv` collects the _FMAID_ for each obj file as well as the `preferredName` from the ontology. An example from this list is provided here:
+* Most files are named using their [Foundational Model of Anatomy Ontology (FMA)](https://en.wikipedia.org/wiki/Foundational_Model_of_Anatomy) representation, which follows the format: FMA<_FMAID_>.stl.
+* In an effort to create a human-readable list to interogate the files, the csv file `FMA_ID_label_obj.csv` collects the _FMAID_ for each obj file as well as the `preferredName` from the ontology. An example from this list is provided here:
 
 | `FMAID`      | `preferredName` |
 | ----------- | ----------- |
