@@ -1,14 +1,21 @@
-Summary: Creative Commons License Creative Commons Attribution-Inheritance 2.1 Japan (CC BY-SA)
+MIT License
 
-Original: http://lifesciencedb.jp/bp3d/info_en/license/index.html
+Copyright (c) 2021 Kevin Mattheus Moerman and the BodyParts3D code developers
 
-Translation: https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-About terms of use and credit description:
-The standard licenses for the contents (including images created by Anatomography) published on this site (http://lifesciencedb.jp/bp3d, http://lifesciencedb.jp/ag) are as follows.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-Creative Commons License Creative Commons Attribution-Inheritance 2.1 Japan
-
-Please be sure to display the following credits before using.
-
-BodyParts3D, Copyrightc 2008 Life Science Integrated Database Center licensed by CC Display-Inheritance 2.1 Japan
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
