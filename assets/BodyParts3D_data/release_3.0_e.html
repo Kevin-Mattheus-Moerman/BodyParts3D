@@ -1,0 +1,137 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<TITLE>BodyParts3D Release Note</TITLE>
+</HEAD>
+<BODY dir="ltr" class="static_page ltr lang_jp show_leftnav chrome1 chrome winvista win modules_widescreen new-ui ">
+<DIV class="wrapper" id="baseDiv">
+
+<TABLE class="layout" border="0"><TBODY><TR>
+<TD class="left_column"></TD>
+
+<TD class="content new-ui">
+
+<DIV class="inner_content">
+
+<DIV class="gsg">
+
+<DIV class="gsg-body">
+<DIV class="gsg-inner-body">
+<DIV class="gsg-inner-answer">
+
+<h2 class="gsg">BodyParts3D Release Note (Release 3.0, 2011/6/20)</h2>
+
+<h2>1. What's new</h2>
+
+<p>
+The following two main points have been updated since the previous version (Rel. 2.0, 2010/4/28).
+</p>
+
+<ol>
+<li>The central nervous system (so-called brain) have been refined and newly created based on the following anatomy textbooks, charts and reference atlases.
+<ul>
+<li>Anatomy textbooks</li>
+<ul>
+<li>The Human Central Nervous System 4th edition [1]<br />
+<li>Atlas of the Human Brain, Third Edition [2]<br />
+<li>Gray's Anatomy: The Anatomical Basis of Clinical Practice, Expert Consult 40th edition [3]<br />
+<li>Prometheus Kopf, Hals und Neuroanatomie [4]<br />
+</ul>
+<li>Reference atlases</li>
+<ul>
+<li>SPL-PNL Brain Atlas 2008 March [5]</li>
+<li>Talairach Label Data [6]</li>
+</ul>
+</li>
+</ul>
+<br />
+<li>Inclusion relations between body parts in the conventional tree of "Bp3d Viewer" were semi-automatically generated.
+<ul>
+<li>The relations are used to define a composite part that is composed of multiple parts.
+For example, a part named "nervous system" is defined as a combination of a part named "central nervous system" 
+and "peripheral nervous system" based on a relation that the central nervous system and the peripheral nervous system are included in the nervous system. </li>
+<li>The relations are defined as a union of "is-a" and "part-of" relationships in Foundational Model of Anatomy (FMA) [7][8] and 
+the relations derived from the indentations in the list of Latest Anatomical Terms [9], which is based on Terminologia Anatomica Japonica [10].</li>
+<li>The hierarchy of "is-a" and "part-of" relationships in FMA [7][8] is deep. To make the height of the navigation tree as small as possible, the internal nodes are limited to body parts that are included in both FMA [7][8] and Latest Anatomical Terms [9].</li>
+</ul>
+</ol>
+
+<p>
+The models have been refined and created in detail.
+</p>
+
+<h2>2. Attentions in use</h2>
+
+There are some incomplete parts since BodyParts3D is being improved.
+
+<ul>
+<li>Some parts in the release 3.0 are not contained in the release 2.0. Missing parts are not displayed 
+when you switch the release number in the drop-down list from 3.0 to 2.0.
+<li>Organs might be spatially overlapped or unnecessary spaces might exist.
+<li>Tube-shaped organs like vessels and trachea are made as solids.
+<li>At this time BodyParts3D does not contain all the anatomical terms/concepts 
+in Terminologia Anatomica Japonica [10] or anatomy ontologies like FMA [7] [8] because BodyParts3D contains only organs that already have been created as 3D-models.
+<li>Some inclusion relations can be missing or false ones can exist because they are semi-automatically generated, 
+</li>
+</ul>
+
+<h2>3. The number of body parts (organs)</h2>
+
+<table border=1>
+<tr><th>Organ system</th><th># of parts</th></tr>
+<tr><td>cardinal body part</td><td align=right>38</td></tr>
+<tr><td>set of immaterial anatomical entities</td><td align=right>40</td></tr>
+<tr><td>skeletal system</td><td align=right>293</td></tr>
+<tr><td>articular system</td><td align=right>54</td></tr>
+<tr><td>muscular system</td><td align=right>699</td></tr>
+<tr><td>alimentary system</td><td align=right>58</td></tr>
+<tr><td>alimentary system/endocrine system</td><td align=right>1</td></tr>
+<tr><td>respiratory system</td><td align=right>18</td></tr>
+<tr><td>thorax</td><td align=right>5</td></tr>
+<tr><td>thorax/cardiovascular system</td><td align=right>2</td></tr>
+<tr><td>urinary system</td><td align=right>9</td></tr>
+<tr><td>genital system</td><td align=right>25</td></tr>
+<tr><td>endocrine system</td><td align=right>6</td></tr>
+<tr><td>cardiovascular system</td><td align=right>102</td></tr>
+<tr><td>lymphoid system</td><td align=right>6</td></tr>
+<tr><td>nervous system</td><td align=right>156</td></tr>
+<tr><td>sense organ system</td><td align=right>4</td></tr>
+<tr><td>integumentary system</td><td align=right>7</td></tr>
+<tr><td align=center>Total</td><td align=right>1523</td></tr>
+</table>
+
+<h2>4. Coordinate system of BodyParts3D</h2>
+
+<img border="1" width="500" src="coordinate_system.png">
+
+<h2>5. Release history</h2>
+
+<ul>
+<li>Release 3.0:  2011/6/20</li>
+<li>Release 2.0:  2010/4/28</li>
+<li>Release 1.0:  2009/2/9</li>
+</ul>
+
+<h2>6. References</h2>
+1. Nieuwenhuys R, Voogd J, Huijzen, CV: The Human Central Nervous System 4th edition: Springer; 2008. <br /> 
+2. Mai JK, Paxinos G, Voss T: Atlas of the Human Brain, Third Edition: Academic Press; 2007.<br /> 
+3. Standring S: Gray's Anatomy: The Anatomical Basis of Clinical Practice, Expert Consult 40th edition: Churchill Livingstone; 2008.<br />
+4. Schünke M, Schulte E, Schumacher, Udo: Prometheus Kopf, Hals und Neuroanatomie: Thieme; 2009.<br />
+5. SPL-PNL Brain Atlas 2008 March, <a href="http://www.spl.harvard.edu/publications/item/view/1265">http://www.spl.harvard.edu/publications/item/view/1265</a>.<br />
+6. Talairach Label Data, <a href="http://www.talairach.org/">http://www.talairach.org/</a>.<br />
+7. Rosse C, Mejino JLV: A reference ontology for biomedical informatics: the Foundational Model of Anatomy. Journal of Biomedical Informatics 2003, 36(6):478-500.<br />
+8. Foundational Model of Anatomy (subset), <a href="http://www.obofoundry.org/cgi-bin/detail.cgi?id=fma_lite">http://www.obofoundry.org/cgi-bin/detail.cgi?id=fma_lite</a><br>
+9. Latest Anatomical Terms, <a href="http://web.sc.itc.keio.ac.jp/anatomy/TA/TA-contents.html">http://web.sc.itc.keio.ac.jp/anatomy/TA/TA-contents.html</a>; 2007.<br />
+10. The Japanese Association of Anatomists: Terminologia Anatomica Japonica, 13th Edition: Igaku-shoin; 2007.<br />
+</div>
+</div>
+
+</td></tr>
+</tbody>
+</table>
+
+<br/>
+
+</div>
+</body>
+</html>

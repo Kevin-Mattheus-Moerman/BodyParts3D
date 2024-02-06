@@ -1,0 +1,8 @@
+# Ignore the temporary file directory in the data folder
+assets/temp
+
+# Ignore vscode settings folder
+/.vscode
+
+# Ignore .backup files
+*.backup

@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+
+<title>BodyParts3D README</title>
+
+<style type="text/css">
+<!--
+body {
+font-size:0.9em;
+}
+#pagesize {
+width:800px;
+}
+.bold {
+font-weight:bold;
+}
+-->
+</style>
+</head>
+<body>
+<div id="pagesize">
+<h1><a name="Top"></a>BodyParts3D</h1>
+2013/04/11<br />
+<br />
+WebSite: <a href="http://lifesciencedb.jp/bp3d/?lng=en">http://lifesciencedb.jp/bp3d/?lng=en</a><br />
+FTP Site: <a href="ftp://ftp.biosciencedbc.jp/archive/bodyparts3d/">ftp://ftp.biosciencedbc.jp/archive/bodyparts3d/</a><br />
+<br />
+<p>BodyParts3D is a dictionary-type database for anatomy in which shapes and positions of body parts are represented by 3D human models. This directory contains the models labeled with anatomical terms in BodyParts3D.
+</p>
+<h3>README Content</h3>
+<ol>
+<li><a href="#Sec1">Database Component</a></li>
+<li><a href="#Sec2">Data Description</a></li>
+<li><a href="#Sec3">License</a></li>
+<li><a href="#Sec4">Update History</a></li>
+<li><a href="#Sec5">Literature</a></li>
+<li><a href="#Sec6">Contact address</a></li>
+</ol>
+<h3><a name="Sec1"></a>1. Database Component</h3>
+<ol>
+<li><a href="#2.1">README</a></li>
+<li><a href="#2.2">Release note (Rel. 3.0)</a></li>
+<li><a href="#2.3">Table of 3D organ model IDs and organ names</a></li>
+<li><a href="#2.4">Data describing the conventional inclusion relations between two organs</a></li>
+<li><a href="#2.5">Data describing the definition of composite organs</a></li>
+<li><a href="#2.6">Organ ID-specific polygon mesh data 1 (Polygon reduction rate = 95%)</a></li>
+<li><a href="#2.7">Organ ID-specific polygon mesh data 2 (Polygon reduction rate = 99%)</a></li>
+</ol>
+<div style="text-align: right;"><a href="#Top">Return to Top</a></div>
+
+<h3><a name="Sec2"></a>2. Data Description</h3>
+<h4><a name="2.1"></a>2.1 README</h4>
+<table style="text-align: left;" border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Data name</td>
+<td>README</td>
+</tr>
+<tr>
+<td>Description of data contents</td>
+<td>HTML file to describe "BodyParts3D" data.</td>
+</tr>
+<tr>
+<td>File</td>
+<td>README_e.html (English)</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: right;"><a href="#Top">Return to Top</a></div>
+
+<h4><a name="2.2"></a>2.2 Release Note</h4>
+<table border="1" cellpadding="2" cellspacing="0">
+<tbody>
+<tr>
+<td>Data name</td>
+<td>Release note (Rel. 3.0)</td>
+</tr>
+<tr>
+<td>Description of data contents</td>
+<td>
+HTML file that describes main update points since the previous release (Rel. 2.0, 2010/8/16)
+</td>
+</tr>
+<tr>
+<td>File</td>
+<td>release_3.0_e.html (English)</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: right;"><a href="#Top">Return to Top</a></div>
+
+
+<h4><a name="2.3"></a>2.3 Table of 3D organ model IDs and organ names</h4>
+<table border="1" cellpadding="2" cellspacing="0">
+<tbody>
+<tr>
+<td>Data name</td>
+<td>Table of 3D organ model IDs and organ names
+</td>
+</tr>
+<tr>
+<td>Description of data contents</td>
+<td>
+<p style="width:600px">
+List of downloadable 3D organ models in a tab-delimited text file format, describing the correspondence between 3D organ model IDs and organ names
+</p>
+</td>
+</tr>
+<tr>
+<td>File</td>
+<td>parts_list_e.txt (49KB)</td>
+</tr>
+</tbody>
+</table>
+<br />
+Each column is delimited by a tab character in the file.
+<br />
+Data items are the following:<br />
+
+<table border="1" cellpadding="2" cellspacing="0">
+<tbody>
+<tr>
+<th>Data item</th>
+<th>Description</th>
+</tr>
+
+<tr>
+<td>id</td>
+<td>ID of the corresponding FMA (Foundational Model of Anatomy), starting with "FMA". If a corresponding concept is not found in the FMA, a BodyParts3D's original ID that begins with "BP" is assigned.</td>
+</tr>
+
+<tr>
+<td>en</td>
+<td>English name. Basically, a preferred name of FMA is assigned.</td>
+</tr>
+
+</tbody>
+</table>
+
+<div style="text-align: right;"><a href="#Top">Return to Top</a></div>
+
+<h4><a name="2.4"></a>2.4 Data describing the inclusion (part-of) relations between two organs</h4>
+<table border="1" cellpadding="2" cellspacing="0">
+<tbody>
+<tr>
+<td>Data name</td>
+<td>Data describing the inclusion relations between two organs
+</td>
+</tr>
+<tr>
+<td>Description of data contents</td>
+<td>
+<p style="width:600px">
+File of data describing the inclusion relations between two organs of the downloadable 3D organ models.
+This is the conventional type hierarchy shown at the "Tree" tab of "BP3D Viewer" (http://lifesciencedb.jp/bp3d).
+</p>
+</td>
+</tr>
+<tr>
+<td>File</td>
+<td>conventional_part_of.txt (137KB)</td>
+</tr>
+</tbody>
+</table>
+<br />
+Each column is delimited by a tab character in the file.
+<br />
+Data items are the following:<br />
+
+<table border="1" cellpadding="2" cellspacing="0">
+<tbody>
+<tr>
+<th>Data item</th>
+<th>Description</th>
+</tr>
+
+<tr>
+<td>id</td>
+<td>Organ ID</td>
+</tr>
+
+<tr>
+<td>name</td>
+<td>English name of the organ in the first column</td>
+</tr>
+
+<tr>
+<td>part id</td>
+<td>ID of an organ that is part of the organ in the first and second columns</td>
+</tr>
+
+<tr>
+<td>part name</td>
+<td>English name of the organ in the third column (part id)</td>
+</tr>
+
+</tbody>
+</table>
+
+<div style="text-align: right;"><a href="#Top">Return to Top</a></div>
+
+<h4><a name="2.5"></a>2.5 Data describing the definition of composite organs</h4>
+<table border="1" cellpadding="2" cellspacing="0">
+<tbody>
+<tr>
+<td>Data name</td>
+<td>Data describing the definition of composite organs</td>
+</tr>
+<tr>
+<td>Description of data contents</td>
+<td>
+<p style="width:600px">
+In BodyParts3D, only atomic organs are constructed as polygon meshes. Composite organs defined as a sum of atomic ones are not provided in the form of the meshes.
+This file describes which atomic body parts constitute each composite organ according to the "conventional" inclusion relations described above.
+</p>
+</td>
+</tr>
+<tr>
+<td>File</td>
+<td>composite_parts.txt (721KB)</td>
+</tr>
+</tbody>
+</table>
+<br />
+Each column is delimited by a tab character in the file.
+<br />
+Data items are the following:<br />
+
+<table border="1" cellpadding="2" cellspacing="0">
+<tbody>
+<tr>
+<th>Data item</th>
+<th>Description</th>
+</tr>
+
+<tr>
+<td>composite id</td>
+<td>Composite organID</td>
+</tr>
+
+<tr>
+<td>composite name</td>
+<td>English name of the organ in the first column</td>
+</tr>
+
+<tr>
+<td>primitive id</td>
+<td>ID of an atomic organ that constitutes the organ in the first and second columns</td>
+</tr>
+
+<tr>
+<td>primitive name</td>
+<td>English name of the organ in the third column (primitive id)</td>
+</tr>
+
+</tbody>
+</table>
+
+<div style="text-align: right;"><a href="#Top">Return to Top</a></div>
+
+
+<h4><a name="2.6"></a>2.6 Organ ID-specific polygon mesh data</h4>
+<h5>2.6.1 Polygon reduction rate = 95.0%</h5>
+<table border="1" cellpadding="2" cellspacing="0">
+<tbody>
+<tr>
+<td>Data name</td>
+<td>Organ ID-specific polygon mesh data 1 (Polygon reduction rate = 95.0%)
+</td>
+</tr>
+<tr>
+<td>Description of data contents</td>
+<td>
+<p style="width:600px">
+BodyParts3D phase-2 or 3 3D organ model data with the polygon reduction rate of 95%. The zip-compressed download files contain multiple files of organ ID-specific polygon data in the Wavefront OBJ format. The polygon data file is named as "organ ID" of the 3D organ models followed by the extension ".obj".
+</p>
+</td>
+</tr>
+<tr>
+<td>File</td>
+<td>BodyParts3D_3.0_obj_95.zip (521MB)<br />
+</td>
+</tr>
+</tbody>
+</table>
+
+<div style="text-align: right;"><a href="#Top">Return to Top</a></div>
+
+<h4><a name="2.7"></a>2.7 Organ ID-specific polygon mesh data 2 (Polygon reduction rate = 99.0%)</h4>
+<table border="1" cellpadding="2" cellspacing="0">
+<tbody>
+<tr>
+<td>Data name</td>
+<td>Organ ID-specific polygon mesh data 2 (Polygon reduction rate = 99.0%)
+</td>
+</tr>
+<tr>
+<td>Description of data contents</td>
+<td>
+<p style="width:600px">
+BodyParts3D phase-2 or 3 3D organ model data with the polygon reduction rate of 99%. The zip-compressed download files contain multiple files of organ ID-specific polygon data in the Wavefront OBJ format. The polygon data file is named as "organ ID" of the 3D organ models followed by the extension ".obj".
+</p>
+</td>
+</tr>
+<tr>
+<td>File</td>
+<td>BodyParts3D_3.0_obj_99.zip (127MB)
+</td>
+</tr>
+</tbody>
+</table>
+
+<h5>About polygon data</h5>
+<p>
+A polygon mesh with the reduction rate of 95% is more precise than that with 99% 
+because 95% has five times more polygons (triangles) than 99%.
+</p>
+<p>
+&lt;Reference&gt;
+</p>
+<ul>
+<li>
+<a href="http://en.wikipedia.org/wiki/Obj">
+Description of a wavefont obj format</a> (from Wikipedia)
+</li>
+<li>
+<a href="http://en.wikipedia.org/wiki/Polygon_%28computer_graphics%29">Description of polygon</a>(from Wikipedia)
+</li>
+</ul>
+
+
+<div style="text-align: right;"><a href="#Top">Return to Top</a></div>
+<h3><a name="Sec3"></a>3. License</h3>
+<p>
+The license specifies the license terms regarding the use of this database and the requirements you must follow in using this database.
+</p>
+<h4>3.1 License</h4>
+<p>The license for this database is the license specified in the 
+<span class="bold">Creative Commons Attribution-Share Alike 2.1 Japan</span>.<br />
+If you use data from this database, please be sure attribute this database as follows: 
+<span class="bold">"BodyParts3D, Copyright&copy; The Database Center for Life Science licensed by CC Attribution-Share Alike 2.1 Japan"</span>.</p>
+<p>
+The summary of the Creative Commons Attribution-Share Alike 2.1 Japan is found 
+<a href="http://creativecommons.org/licenses/by-sa/2.1/jp/deed.en_US" rel="external">here</a>.
+</p>
+<p>With regard to this database, you are licensed to:<br />
+</p>
+<ol>
+  <li>freely access part or whole of this database, and acquire data;</li>
+  <li>freely redistribute part or whole of the data from this database; and</li>
+  <li>freely create and distribute database and other derivative works based on part or whole of the data from this database,</li>
+</ol>
+<p>under the license, as long as you comply with the following conditions:<br />
+</p>
+<ol>
+  <li>You must attribute this database in the manner specified by the author or licensor when distributing part or whole of this database or any derivative work.</li>
+  <li>You must distribute any derivative work based on part or whole of the data from this database under this License.</li>
+  <li>You need to contact the Licensor shown below to request a license for use of this database or any part thereof not licensed under the license.</li>
+</ol>
+
+<p>
+Research Organization of Information and Systems<br />
+Database Center for Life Science<br />
+<br />
+E-mail : bodyparts [at] dbcls [dot] rois [dot] ac [dot] jp
+<br />
+</p>
+<h4>3.2 About Providing Links to This Database</h4>
+<p>
+You can freely provide links to all contents in this database. But, contents might be changed without notice.</p>
+<div style="text-align: right;"><a href="#Top">Return to Top</a></div>
+<h3><a name="Sec4"></a>4. Update History</h3>
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Date</td>
+<td>Update contents</td>
+</tr>
+
+<tr>
+<td>2013/04/11</td>
+<td>Changed the email address in the contact information.</td>
+</tr>
+
+<tr>
+<td>2013/01/17</td>
+<td>Added simple search URLs for the following data.
+<ul>
+<li>Table of 3D organ model IDs and organ names</li>
+<li>Data describing the inclusion (part-of) relationships between two organs</li>
+<li>Data describing the definition of composite organs</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>2011/09/15</td>
+<td>3D data (rel. 3.0) is updated.</td>
+</tr>
+
+<tr>
+<td>2011/08/25</td>
+<td>"License" is updated.</td>
+</tr>
+
+<tr>
+<td>2010/08/16</td>
+<td>3D data (rel. 2.0) is updated.</td>
+</tr>
+
+<tr>
+<td>2010/03/29</td>
+<td>BodyParts3D English archive site is opened.</td>
+</tr>
+
+<tr>
+<td>2009/02/09</td>
+<td>3D data (rel. 1.0) is updated.</td>
+</tr>
+
+<tr>
+<td>2008/08/12</td>
+<td>BodyPart3D(<a href="http://lifesciencedb.jp/bp3d/?lng=en">http://lifesciencedb.jp/bp3d/?lng=en</a>) is released.</td>
+</tr>
+
+</tbody>
+</table>
+
+
+
+<div style="text-align: right;"><a href="#Top">Return to Top</a></div>
+<h3><a name="Sec5"></a>5. Literature</h3>
+Mitsuhashi N, Fujieda K, Tamura T, Kawamoto S, Takagi T, Okubo K.<br />
+BodyParts3D: 3D structure database for anatomical concepts.<br />
+Nucleic Acids Res. 2009 Jan;37(Database issue):D782-5. Epub 2008 Oct 3.<br />
+PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/18835852">18835852</a><br />
+<br />
+
+<div style="text-align: right;"><a href="#Top">Return to Top</a></div>
+
+<h3><a name="Sec6"></a>6. Contact address</h3>
+When you have any question about "BodyPart3D", contact the following:<br />
+
+<p>
+Research Organization of Information and Systems<br />
+Database Center for Life Science<br />
+<br />
+E-mail : bodyparts [at] dbcls [dot] rois [dot] ac [dot] jp<br />
+</p>
+<div style="text-align: right;"><a href="#Top">Return to Top</a></div>
+</div>
+</body>
+</html>

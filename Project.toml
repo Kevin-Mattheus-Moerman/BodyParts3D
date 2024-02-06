@@ -1,0 +1,12 @@
+name = "BodyParts3D"
+uuid = "a0c84d82-d54c-4171-b8fd-a561c1d90ccd"
+authors = ["Kevin-Mattheus-Moerman <kevin.moerman@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
+GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
+GeometryBasics = "5c1252a2-5f33-56bf-86c9-59e7332b4326"
+MeshIO = "7269a6da-0436-5bbc-96c2-40638cbb6118"
+ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"

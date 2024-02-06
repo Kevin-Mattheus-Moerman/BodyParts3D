@@ -1,0 +1,1524 @@
+"id"	en
+FMA20394	human body
+FMA7153	cardinal body part
+FMA7154	head
+FMA49187	occipital part of head
+FMA52780	ear
+FMA24728	face
+FMA54448	eye
+FMA46476	cheek
+FMA46472	nose
+FMA49184	mouth
+FMA46495	chin
+FMA7155	neck
+FMA7181	trunk
+FMA9576	thorax
+FMA24816	anterior chest
+FMA9577	abdomen
+FMA9578	pelvis
+FMA14181	back
+FMA7183	upper limb
+FMA23217	pectoral girdle
+FMA24864	axilla
+FMA24890	arm
+FMA24901	elbow
+FMA9663	forearm
+FMA9712	hand
+FMA24922	wrist
+FMA24920	palm
+FMA75592	set of fingers
+FMA7184	lower limb
+FMA16581	pelvic girdle
+FMA24964	hip
+FMA24967	thigh
+FMA24974	knee
+FMA24979	leg
+FMA9664	foot
+FMA25045	dorsal part of foot
+FMA70664	set of toes
+FMA71917	set of immaterial anatomical entities
+FMA61824	frontal lobe
+FMA61826	parietal lobe
+FMA67325	occipital lobe
+FMA54393	subdivision of face
+FMA46488	buccal part of mouth
+FMA46489	subdivision of external nose
+FMA24189	back of neck
+FMA61471	pectoral part of chest
+FMA24228	posterior part of pelvis
+FMA25200	scapular part of pectoral girdle
+FMA61681	back of abdomen
+FMA9579	perineum
+FMA20347	anal part of perineum
+FMA20348	urogenital part of perineum
+FMA73004	deltoid part of pectoral girdle
+FMA24891	anterior part of arm
+FMA24892	posterior part of arm
+FMA24904	anterior part of elbow
+FMA24907	posterior part of elbow
+FMA24911	posterior part of forearm
+FMA24945	segment of hand
+FMA61520	thenar eminence
+FMA61523	hypothenar eminence
+FMA24938	thumb
+FMA24946	index finger
+FMA24947	middle finger
+FMA24948	ring finger
+FMA24949	little finger
+FMA74846	segment of knee
+FMA24975	anterior part of knee
+FMA24993	segment of foot
+FMA25047	big toe
+FMA25048	second toe
+FMA25051	third toe
+FMA25052	fourth toe
+FMA25053	little toe
+FMA23881	skeletal system
+FMA71221	axial skeleton
+FMA71222	appendicular skeleton
+FMA7474	long bone
+FMA7475	short bone
+FMA7476	flat bone
+FMA7477	irregular bone
+FMA7478	pneumatized bone
+FMA32672	sesamoid bone
+FMA46565	skull
+FMA53672	neurocranium
+FMA53673	viscerocranium
+FMA52735	occipital bone
+FMA52801	basicranium
+FMA53074	orbit
+FMA54379	orbital compartment
+FMA75740	bony nasal cavity
+FMA60118	skeleton of nasal septum
+FMA9613	parietal bone
+FMA52734	frontal bone
+FMA52736	sphenoid bone
+FMA52737	temporal bone
+FMA52740	ethmoid
+FMA54736	inferior nasal concha
+FMA52741	lacrimal bone
+FMA52745	nasal bone
+FMA9710	vomer
+FMA9711	maxilla
+FMA52746	palatine bone
+FMA52747	zygomatic bone
+FMA52748	mandible
+FMA52749	hyoid bone
+FMA13478	vertebral column
+FMA9914	vertebra
+FMA72063	set of cervical vertebrae
+FMA12519	atlas
+FMA12520	axis
+FMA12525	seventh cervical vertebra
+FMA72064	set of thoracic vertebrae
+FMA72065	set of lumbar vertebrae
+FMA16202	sacrum
+FMA71331	set of ribs
+FMA7591	costal cartilage
+FMA7574	rib
+FMA7597	first rib
+FMA7620	second rib
+FMA7485	sternum
+FMA7486	manubrium
+FMA7487	body of sternum
+FMA7488	xiphoid process
+FMA7480	rib cage
+FMA24139	skeleton of upper limb
+FMA25570	bony pectoral girdle
+FMA13394	scapula
+FMA13321	clavicle
+FMA61406	skeletal system of free upper limb
+FMA13303	humerus
+FMA23463	radius
+FMA23466	ulna
+FMA71335	set of carpal bones
+FMA23709	scaphoid
+FMA23712	lunate
+FMA23715	triquetral
+FMA23718	pisiform
+FMA23721	trapezium
+FMA23724	trapezoid
+FMA23727	capitate
+FMA23730	hamate
+FMA71336	set of metacarpal bones
+FMA231315	set of phalanges
+FMA24140	skeleton of lower limb
+FMA16585	hip bone
+FMA16580	bony pelvis
+FMA61409	skeletal system of free lower limb
+FMA9611	femur
+FMA24485	patella
+FMA24476	tibia
+FMA24479	fibula
+FMA24222	skeleton of foot
+FMA71339	set of tarsal bones
+FMA9708	talus
+FMA24496	calcaneus
+FMA24499	navicular bone of foot
+FMA24518	medial cuneiform bone
+FMA24519	intermediate cuneiform bone
+FMA24520	lateral cuneiform bone
+FMA24527	cuboid bone
+FMA71340	set of metatarsal bones
+FMA23878	articular system
+FMA7490	joint
+FMA71352	set of bony joints
+FMA7491	nonsynovial joint
+FMA7492	fibrous joint
+FMA7494	syndesmosis
+FMA54839	interosseous membrane
+FMA7496	cartilaginous joint
+FMA7498	symphysis
+FMA7501	synovial joint
+FMA70773	set of ligaments
+FMA59762	gingiva
+FMA76695	intervertebral joint
+FMA10446	intervertebral disk
+FMA39432	radio-ulnar syndesmosis
+FMA23706	interosseous membrane of forearm
+FMA71348	set of joints of free lower limb
+FMA10465	inferior tibiofibular joint
+FMA35187	interosseous membrane of leg
+FMA35181	tibiofibular joint
+FMA71411	set of tarsal ligaments
+FMA71415	set of plantar tarsal ligaments
+FMA44248	long plantar ligament
+FMA72954	muscular system
+FMA46569	fascicular architecture of muscle
+FMA85453	head of muscle organ
+FMA9719	muscle belly
+FMA23081	rotator muscle
+FMA9721	tendon
+FMA65410	intermediate tendon
+FMA9722	aponeurosis
+FMA71287	musculature of head
+FMA46750	epicranius
+FMA9624	occipitofrontalis
+FMA46757	frontalis
+FMA46758	occipitalis
+FMA46753	temporoparietalis
+FMA46768	aponeurosis of epicranius
+FMA46769	procerus
+FMA46770	nasalis
+FMA46777	depressor septi nasi
+FMA46779	orbicularis oculi
+FMA46784	palpebral part of orbicularis oculi
+FMA46781	orbital part of orbicularis oculi
+FMA46794	corrugator supercilii
+FMA46841	orbicularis oris
+FMA46828	depressor anguli oris
+FMA46838	risorius
+FMA46810	zygomaticus major
+FMA46811	zygomaticus minor
+FMA46805	levator labii superioris
+FMA46802	levator labii superioris alaeque nasi
+FMA46816	depressor labii inferioris
+FMA46822	levator anguli oris
+FMA46834	buccinator
+FMA46825	mentalis
+FMA48996	masseter
+FMA49000	superficial part of masseter
+FMA49003	deep part of masseter
+FMA49006	temporalis
+FMA49015	lateral pterygoid
+FMA49020	upper head of lateral pterygoid
+FMA49021	lower head of lateral pterygoid
+FMA49011	medial pterygoid
+FMA71290	musculature of neck
+FMA45738	platysma
+FMA13370	longus colli
+FMA46308	longus capitis
+FMA13385	scalenus anterior
+FMA13386	scalenus medius
+FMA13387	scalenus posterior
+FMA13407	sternocleidomastoid
+FMA46312	rectus capitis anterior
+FMA46316	rectus capitis lateralis
+FMA32525	rectus capitis posterior major
+FMA32526	rectus capitis posterior minor
+FMA32527	obliquus capitis superior
+FMA32528	obliquus capitis inferior
+FMA46291	digastric
+FMA46302	anterior belly of digastric
+FMA46303	posterior belly of digastric
+FMA9625	stylohyoid
+FMA46320	mylohyoid
+FMA46325	geniohyoid
+FMA13341	sternohyoid
+FMA13342	omohyoid
+FMA13343	sternothyroid
+FMA13344	thyrohyoid
+FMA71291	musculature of back
+FMA9626	trapezius
+FMA32556	transverse part of trapezius
+FMA32555	ascending part of trapezius
+FMA32557	descending part of trapezius
+FMA13357	latissimus dorsi
+FMA13379	rhomboid major
+FMA13380	rhomboid minor
+FMA32519	levator scapulae
+FMA13402	serratus posterior inferior
+FMA13401	serratus posterior superior
+FMA71442	set of anterior cervical intertransversarii
+FMA71443	set of posterior cervical intertransversarii
+FMA71444	set of lateral lumbar intertransversarius muscles
+FMA77177	iliocostalis
+FMA22702	iliocostalis lumborum
+FMA22704	iliocostalis cervicis
+FMA77178	longissimus
+FMA22709	longissimus thoracis
+FMA22711	longissimus cervicis
+FMA22714	longissimus capitis
+FMA77179	spinalis
+FMA22765	spinalis thoracis
+FMA77180	splenius
+FMA22653	splenius capitis
+FMA22681	splenius cervicis
+FMA22827	multifidus
+FMA22823	semispinalis
+FMA22828	semispinalis thoracis
+FMA22829	semispinalis cervicis
+FMA22830	semispinalis capitis
+FMA71305	rotatores muscle group
+FMA23084	lumbar rotator
+FMA23083	thoracic rotator
+FMA23082	cervical rotator
+FMA71306	set of interspinales
+FMA71307	set of interspinales lumborum
+FMA71308	set of interspinales thoracis
+FMA71309	set of interspinales cervicis
+FMA76775	set of medial lumbar intertransversarius muscles
+FMA71293	musculature of thorax
+FMA9627	pectoralis major
+FMA34687	clavicular part of pectoralis major
+FMA34696	sternocostal part of pectoralis major
+FMA34699	abdominal part of pectoralis major
+FMA13109	pectoralis minor
+FMA13410	subclavius
+FMA13397	serratus anterior
+FMA71312	set of levatores costarum
+FMA71313	set of levatores costarum longi
+FMA71314	set of levatores costarum breves
+FMA9756	external intercostal muscle
+FMA9757	internal intercostal muscle
+FMA9758	innermost intercostal muscle
+FMA9760	transversus thoracis
+FMA13295	diaphragm
+FMA86917	musculature of abdomen
+FMA9628	rectus abdominis
+FMA15568	pyramidalis
+FMA13335	external oblique
+FMA19855	inguinal ligament
+FMA13891	internal oblique
+FMA15570	transversus abdominis
+FMA11336	linea alba
+FMA15569	quadratus lumborum
+FMA19726	pelvic diaphragm
+FMA19087	levator ani
+FMA19090	pubococcygeus
+FMA19091	puborectalis
+FMA19092	iliococcygeus
+FMA46442	tendinous arch of levator ani
+FMA19088	coccygeus
+FMA21930	external anal sphincter
+FMA71295	musculature of perineum
+FMA9621	muscle of upper limb
+FMA37673	anterior compartment of arm
+FMA37676	posterior compartment of arm
+FMA12255	anterior compartment of forearm
+FMA38411	posterior compartment of forearm
+FMA32521	deltoid
+FMA34677	clavicular part of deltoid
+FMA34678	acromial part of deltoid
+FMA34679	spinal part of deltoid
+FMA9629	supraspinatus
+FMA32546	infraspinatus muscle
+FMA32550	teres minor
+FMA32549	teres major
+FMA13413	subscapularis
+FMA37670	biceps brachii
+FMA37683	long head of biceps brachii
+FMA37682	short head of biceps brachii
+FMA37664	coracobrachialis
+FMA37667	brachialis
+FMA37688	triceps brachii
+FMA37692	long head of triceps brachii
+FMA37694	lateral head of triceps brachii
+FMA37693	medial head of triceps brachii
+FMA37704	anconeus
+FMA38450	pronator teres
+FMA38558	humeral head of pronator teres
+FMA38559	ulnar head of pronator teres
+FMA38459	flexor carpi radialis
+FMA38462	palmaris longus
+FMA38465	flexor carpi ulnaris
+FMA38615	humeral head of flexor carpi ulnaris
+FMA38616	ulnar head of flexor carpi ulnaris
+FMA38469	flexor digitorum superficialis
+FMA38636	humero-ulnar head of flexor digitorum superficialis
+FMA38637	radial head of flexor digitorum superficialis
+FMA38478	flexor digitorum profundus
+FMA38481	flexor pollicis longus
+FMA38453	pronator quadratus
+FMA38485	brachioradialis
+FMA38494	extensor carpi radialis longus
+FMA38497	extensor carpi radialis brevis
+FMA38500	extensor digitorum
+FMA38503	extensor digiti minimi
+FMA38506	extensor carpi ulnaris
+FMA77260	humeral head of extensor carpi ulnaris
+FMA77261	ulnar head of extensor carpi ulnaris
+FMA38512	supinator
+FMA38515	abductor pollicis longus
+FMA38518	extensor pollicis brevis
+FMA38521	extensor pollicis longus
+FMA38524	extensor indicis
+FMA37373	abductor pollicis brevis
+FMA37378	flexor pollicis brevis
+FMA46104	superficial head of flexor pollicis brevis
+FMA46107	deep head of flexor pollicis brevis
+FMA37379	opponens pollicis
+FMA37380	adductor pollicis
+FMA46119	oblique head of adductor pollicis
+FMA46120	transverse head of adductor pollicis
+FMA37382	abductor digiti minimi of hand
+FMA37383	flexor digiti minimi brevis of hand
+FMA37384	opponens digiti minimi of hand
+FMA71318	set of lumbricals of hand
+FMA71319	set of dorsal interossei of hand
+FMA71320	set of palmar interossei of hand
+FMA39988	flexor retinaculum of wrist
+FMA45151	anterior compartment of thigh
+FMA45157	posterior compartment of thigh
+FMA45160	medial compartment of thigh
+FMA45163	anterior compartment of leg
+FMA9622	muscle of lower limb
+FMA64918	iliopsoas
+FMA22310	iliacus
+FMA18060	psoas major
+FMA22314	gluteus maximus
+FMA22315	gluteus medius
+FMA22317	gluteus minimus
+FMA22423	tensor fasciae latae
+FMA19082	piriformis
+FMA22298	obturator internus
+FMA22318	gemellus superior
+FMA22320	gemellus inferior
+FMA22321	quadratus femoris
+FMA22353	sartorius
+FMA22428	quadriceps femoris
+FMA22430	rectus femoris
+FMA22431	vastus lateralis
+FMA22433	vastus intermedius
+FMA22432	vastus medialis
+FMA22440	pectineus
+FMA22441	adductor longus
+FMA22442	adductor brevis
+FMA22443	adductor magnus
+FMA43885	adductor minimus
+FMA43882	gracilis
+FMA22299	obturator externus
+FMA22356	biceps femoris
+FMA45887	long head of biceps femoris
+FMA45890	short head of biceps femoris
+FMA22357	semitendinosus
+FMA22438	semimembranosus
+FMA22532	tibialis anterior
+FMA22534	extensor digitorum longus
+FMA22538	fibularis tertius
+FMA22533	extensor hallucis longus
+FMA22539	fibularis longus
+FMA22540	fibularis brevis
+FMA51062	triceps surae
+FMA22541	gastrocnemius
+FMA45959	lateral head of gastrocnemius
+FMA45956	medial head of gastrocnemius
+FMA22542	soleus
+FMA51061	calcaneal tendon
+FMA22543	plantaris
+FMA22590	popliteus
+FMA51099	tibialis posterior
+FMA51071	flexor digitorum longus
+FMA22593	flexor hallucis longus
+FMA51141	extensor hallucis brevis
+FMA51140	extensor digitorum brevis
+FMA37448	abductor hallucis
+FMA37449	flexor hallucis brevis
+FMA45969	medial head of flexor hallucis brevis
+FMA45970	lateral head of flexor hallucis brevis
+FMA37454	adductor hallucis
+FMA46014	oblique head of adductor hallucis
+FMA46015	transverse head of adductor hallucis
+FMA37451	abductor digiti minimi of foot
+FMA86033	opponens digiti minimi of foot
+FMA37455	flexor digiti minimi brevis of foot
+FMA37450	flexor digitorum brevis
+FMA37452	flexor accessorius
+FMA71321	set of lumbricals of foot
+FMA71322	set of dorsal interossei of foot
+FMA71323	set of plantar interossei of foot
+FMA13902	fascia lata
+FMA51048	iliotibial tract
+FMA7152	alimentary system
+FMA59660	mucosa of mouth
+FMA59815	labial part of mouth
+FMA55634	maxillary dental arcade
+FMA55635	mandibular dental arcade
+FMA12823	incisor tooth
+FMA55636	canine tooth
+FMA55637	premolar tooth
+FMA55638	molar tooth
+FMA55623	crown of tooth
+FMA7131	esophagus
+FMA7148	stomach
+FMA7200	small intestine
+FMA7206	duodenum
+FMA7207	jejunum
+FMA7208	ileum
+FMA7201	large intestine
+FMA14542	appendix
+FMA14543	colon
+FMA14986	muscle layer of colon
+FMA14987	longitudinal muscle layer of colon
+FMA76891	mesocolic taenia
+FMA76892	omental taenia
+FMA76893	free taenia
+FMA14544	rectum
+FMA7197	liver
+FMA7202	gallbladder
+FMA7198	pancreas
+FMA10419	pancreatic duct
+FMA7158	respiratory system
+FMA59516	root of nose
+FMA71704	set of nasal cartilages
+FMA54375	nasal septum
+FMA59837	bony part of nasal septum
+FMA55099	thyroid cartilage
+FMA7394	trachea
+FMA7195	lung
+FMA7309	right lung
+FMA7310	left lung
+FMA7334	upper lobe of lung
+FMA7383	middle lobe of lung
+FMA7335	lower lobe of lung
+FMA7333	upper lobe of right lung
+FMA7337	lower lobe of right lung
+FMA7370	upper lobe of left lung
+FMA7371	lower lobe of left lung
+FMA9826	mediastinum
+FMA9827	superior mediastinum
+FMA9828	inferior mediastinum
+FMA9838	anterior mediastinum
+FMA9839	middle mediastinum
+FMA7159	urinary system
+FMA7203	kidney
+FMA9704	ureter
+FMA15900	urinary bladder
+FMA7160	genital system
+FMA45664	male genital system
+FMA45655	male internal genitalia
+FMA7210	testis
+FMA18255	epididymis
+FMA19234	deferent duct
+FMA19386	seminal vesicle
+FMA9600	prostate
+FMA45642	male external genitalia
+FMA9707	penis
+FMA18249	body of penis
+FMA18247	glans penis
+FMA19618	corpus cavernosum of penis
+FMA19617	corpus spongiosum of penis
+FMA18252	scrotum
+FMA77304	muscle of anal triangle
+FMA9668	endocrine system
+FMA13889	pituitary gland
+FMA62033	pineal body
+FMA9604	adrenal gland
+FMA7161	cardiovascular system
+FMA50720	artery
+FMA67611	anatomical valve
+FMA50723	vein
+FMA7088	heart
+FMA223286	basal zone of heart
+FMA7098	right ventricle
+FMA7101	left ventricle
+FMA7133	interventricular septum
+FMA7134	muscular part of interventricular septum
+FMA7096	right atrium
+FMA7097	left atrium
+FMA7234	tricuspid valve
+FMA7216	outflow part of right ventricle
+FMA7246	pulmonary valve
+FMA7260	anterior papillary muscle of right ventricle
+FMA7261	posterior papillary muscle of right ventricle
+FMA7262	septal papillary muscle of right ventricle
+FMA7235	mitral valve
+FMA7266	posterior papillary muscle of left ventricle
+FMA9462	myocardium
+FMA63812	set of arteries
+FMA3734	aorta
+FMA3736	ascending aorta
+FMA50039	right coronary artery
+FMA3818	marginal branch of right coronary artery
+FMA3840	posterior interventricular branch of right coronary artery
+FMA71669	set of interventricular septal branches of right coronary artery
+FMA76994	right posterolateral branch of right coronary artery
+FMA50040	left coronary artery
+FMA3862	anterior interventricular branch of left coronary artery
+FMA71670	set of interventricular septal branches of left coronary artery
+FMA3895	circumflex branch of left coronary artery
+FMA3768	arch of aorta
+FMA3932	brachiocephalic artery
+FMA3939	common carotid artery
+FMA3951	subclavian artery
+FMA3784	descending aorta
+FMA3786	thoracic aorta
+FMA14768	left gastric artery
+FMA14771	common hepatic artery
+FMA14773	splenic artery
+FMA14749	superior mesenteric artery
+FMA14750	inferior mesenteric artery
+FMA14751	renal artery
+FMA14764	common iliac artery
+FMA18808	internal iliac artery
+FMA18805	external iliac artery
+FMA63814	set of veins
+FMA4706	coronary sinus
+FMA4707	great cardiac vein
+FMA76751	set of posterior veins of left ventricle
+FMA4713	middle cardiac vein
+FMA4714	small cardiac vein
+FMA71567	set of anterior cardiac veins
+FMA4720	superior vena cava
+FMA4723	brachiocephalic vein
+FMA4724	internal jugular vein
+FMA4725	subclavian vein
+FMA10951	inferior vena cava
+FMA14333	common iliac vein
+FMA18884	internal iliac vein
+FMA18883	external iliac vein
+FMA14332	superior mesenteric vein
+FMA14331	splenic vein
+FMA9607	thymus
+FMA71193	lobe of thymus
+FMA7196	spleen
+FMA74594	lymphoid system
+FMA7157	nervous system
+FMA55675	neuraxis
+FMA67242	gray matter of neuraxis
+FMA83929	white matter of neuraxis
+FMA83716	subarachnoid space
+FMA7647	spinal cord
+FMA78497	central canal of spinal cord
+FMA50801	brain
+FMA67687	hindbrain
+FMA62004	medulla oblongata
+FMA62003	metencephalon
+FMA61993	midbrain
+FMA61992	forebrain
+FMA62001	diencephalon
+FMA62000	telencephalon
+FMA67943	pons
+FMA78469	fourth ventricle
+FMA78439	roof of fourth ventricle
+FMA61934	choroid plexus of cerebral hemisphere
+FMA83740	interpeduncular fossa
+FMA62394	peduncle of midbrain
+FMA71114	brachium of inferior colliculus
+FMA72417	brachium of superior colliculus
+FMA62404	inferior colliculus
+FMA62403	superior colliculus
+FMA78467	cerebral aqueduct
+FMA67944	cerebellum
+FMA62009	epithalamus
+FMA62032	habenula
+FMA62007	thalamus
+FMA62080	stria medullaris of thalamus
+FMA62023	metathalamus
+FMA62209	lateral geniculate body
+FMA62211	medial geniculate body
+FMA62008	hypothalamus
+FMA74877	mammillary body
+FMA62045	optic chiasm
+FMA62046	optic tract
+FMA62327	tuber cinereum
+FMA78454	third ventricle
+FMA75351	interventricular foramen
+FMA62072	posterior commissure
+FMA61975	lamina terminalis
+FMA61961	anterior commissure
+FMA62028	intermediate hypothalamic region
+FMA61974	stria terminalis
+FMA61965	fornix of forebrain
+FMA61817	cerebral hemisphere
+FMA61830	cerebral cortex
+FMA61859	middle frontal gyrus
+FMA61894	precentral gyrus
+FMA61857	superior frontal gyrus
+FMA61898	angular gyrus
+FMA61896	postcentral gyrus
+FMA61897	supramarginal gyrus
+FMA61825	temporal lobe
+FMA61905	superior temporal gyrus
+FMA61906	middle temporal gyrus
+FMA61907	inferior temporal gyrus
+FMA67329	insula
+FMA61908	fusiform gyrus
+FMA72719	limbic lobe
+FMA62434	cingulate gyrus
+FMA61918	parahippocampal gyrus
+FMA86464	corpus callosum
+FMA61970	commissure of fornix of forebrain
+FMA61844	septum pellucidum
+FMA78448	lateral ventricle
+FMA62424	archicortex
+FMA62429	neocortex
+FMA83687	allocortex
+FMA62493	hippocampus
+FMA61841	amygdala
+FMA61842	septum of telencephalon
+FMA61833	caudate nucleus
+FMA61834	putamen
+FMA61835	globus pallidus
+FMA61950	internal capsule
+FMA61952	anterior limb of internal capsule
+FMA50863	optic nerve
+FMA78499	sense organ system
+FMA12513	eyeball
+FMA54439	upper eyelid
+FMA54442	lower eyelid
+FMA72979	integumentary system
+FMA74657	integument
+FMA7163	skin
+FMA70752	set of hairs
+FMA70751	set of head hairs
+FMA71098	set of eyebrows
+FMA70754	set of pubic hairs
+BP24	left costal cartilage
+BP28	right costal cartilage
+BP44	humeral head of left extensor carpi ulnaris
+BP45	humeral head of right extensor carpi ulnaris
+BP46	ulnar head of left extensor carpi ulnaris
+BP47	ulnar head of right extensor carpi ulnaris
+BP48	superior parietal lobule precuneus
+BP49	left superior parietal lobule precuneus
+BP50	right superior parietal lobule precuneus
+BP51	orbital gyri straight gyrus
+FMA10014	ninth thoracic vertebra
+FMA10037	tenth thoracic vertebra
+FMA10059	eleventh thoracic vertebra
+FMA10081	twelfth thoracic vertebra
+FMA10458	intervertebral disk of first thoracic vertebra
+FMA12521	third cervical vertebra
+FMA12522	fourth cervical vertebra
+FMA12523	fifth cervical vertebra
+FMA12524	sixth cervical vertebra
+FMA12846	cardiac vein
+FMA13072	first lumbar vertebra
+FMA13073	second lumbar vertebra
+FMA13074	third lumbar vertebra
+FMA13075	fourth lumbar vertebra
+FMA13076	fifth lumbar vertebra
+FMA13322	right clavicle
+FMA13323	left clavicle
+FMA13336	right external oblique
+FMA13337	left external oblique
+FMA13346	right sternohyoid
+FMA13347	left sternohyoid
+FMA13348	right omohyoid
+FMA13349	left omohyoid
+FMA13350	right sternothyroid
+FMA13351	left sternothyroid
+FMA13352	right thyrohyoid
+FMA13353	left thyrohyoid
+FMA13358	right latissimus dorsi
+FMA13359	left latissimus dorsi
+FMA13375	right pectoralis minor
+FMA13376	left pectoralis minor
+FMA13377	right rectus abdominis
+FMA13378	left rectus abdominis
+FMA13381	right rhomboid major
+FMA13382	left rhomboid major
+FMA13383	right rhomboid minor
+FMA13384	left rhomboid minor
+FMA13388	right scalenus posterior
+FMA13389	left scalenus posterior
+FMA13390	right scalenus medius
+FMA13391	left scalenus medius
+FMA13392	right scalenus anterior
+FMA13393	left scalenus anterior
+FMA13395	right scapula
+FMA13396	left scapula
+FMA13398	right serratus anterior
+FMA13399	left serratus anterior
+FMA13403	right serratus posterior superior
+FMA13404	left serratus posterior superior
+FMA13405	right serratus posterior inferior
+FMA13406	left serratus posterior inferior
+FMA13408	right sternocleidomastoid
+FMA13409	left sternocleidomastoid
+FMA13411	left subclavius
+FMA13412	right subclavius
+FMA13414	right subscapularis
+FMA13415	left subscapularis
+FMA13495	intervertebral disk of second thoracic vertebra
+FMA13500	intervertebral disk of third thoracic vertebra
+FMA13501	intervertebral disk of fourth thoracic vertebra
+FMA13502	intervertebral disk of fifth thoracic vertebra
+FMA13503	intervertebral disk of sixth thoracic vertebra
+FMA13504	intervertebral disk of seventh thoracic vertebra
+FMA13505	intervertebral disk of eighth thoracic vertebra
+FMA13506	intervertebral disk of ninth thoracic vertebra
+FMA13507	intervertebral disk of tenth thoracic vertebra
+FMA13508	intervertebral disk of eleventh thoracic vertebra
+FMA13509	intervertebral disk of twelfth thoracic vertebra
+FMA13892	right internal oblique
+FMA13893	left internal oblique
+FMA13896	intervertebral disk of third cervical vertebra
+FMA13897	intervertebral disk of fourth cervical vertebra
+FMA13898	intervertebral disk of fifth cervical vertebra
+FMA13899	intervertebral disk of sixth cervical vertebra
+FMA13900	intervertebral disk of seventh cervical vertebra
+FMA14335	right renal vein
+FMA14336	left renal vein
+FMA14543nsn	colon, nsn
+FMA14752	right renal artery
+FMA14753	left renal artery
+FMA14765	right common iliac artery
+FMA14766	left common iliac artery
+FMA15571	right ureter
+FMA15572	left ureter
+FMA15629	right adrenal gland
+FMA15630	left adrenal gland
+FMA16033	intervertebral disk of first lumbar vertebra
+FMA16034	intervertebral disk of second lumbar vertebra
+FMA16035	intervertebral disk of third lumbar vertebra
+FMA16036	intervertebral disk of fourth lumbar vertebra
+FMA16037	intervertebral disk of fifth lumbar vertebra
+FMA16586	right hip bone
+FMA16587	left hip bone
+FMA18256	right epididymis
+FMA18257	left epididymis
+FMA18806	right external iliac artery
+FMA18807	left external iliac artery
+FMA18809	right internal iliac artery
+FMA18810	left internal iliac artery
+FMA18885	right external iliac vein
+FMA18886	left external iliac vein
+FMA18887	right internal iliac vein
+FMA18888	left internal iliac vein
+FMA19235	right deferent duct
+FMA19236	left deferent duct
+FMA19387	right seminal vesicle
+FMA19388	left seminal vesicle
+FMA19617nsn	corpus spongiosum of penis, nsn
+FMA19667	urethra
+FMA21387	right common iliac vein
+FMA21388	left common iliac vein
+FMA21964	right inguinal ligament
+FMA21965	left inguinal ligament
+FMA22322	right iliacus
+FMA22323	left iliacus
+FMA22324	right obturator internus
+FMA22325	left obturator internus
+FMA22326	right obturator externus
+FMA22327	left obturator externus
+FMA22328	right gluteus maximus
+FMA22329	left gluteus maximus
+FMA22330	right gluteus medius
+FMA22331	left gluteus medius
+FMA22332	right gluteus minimus
+FMA22333	left gluteus minimus
+FMA22334	right gemellus superior
+FMA22335	left gemellus superior
+FMA22336	right gemellus inferior
+FMA22337	left gemellus inferior
+FMA22338	right quadratus femoris
+FMA22339	left quadratus femoris
+FMA22340	right piriformis
+FMA22341	left piriformis
+FMA22342	right psoas major
+FMA22343	left psoas major
+FMA22344	right transversus abdominis
+FMA22345	left transversus abdominis
+FMA22346	right pyramidalis
+FMA22347	left pyramidalis
+FMA22348	right quadratus lumborum
+FMA22349	left quadratus lumborum
+FMA22354	right sartorius
+FMA22355	left sartorius
+FMA22358	right semitendinosus
+FMA22359	left semitendinosus
+FMA22425	right tensor fasciae latae
+FMA22426	left tensor fasciae latae
+FMA22448	right semimembranosus
+FMA22449	left semimembranosus
+FMA22450	right pectineus
+FMA22451	left pectineus
+FMA22452	right adductor brevis
+FMA22454	left adductor brevis
+FMA22456	right adductor longus
+FMA22457	left adductor longus
+FMA22459	right adductor magnus
+FMA22460	left adductor magnus
+FMA22544	right tibialis anterior
+FMA22545	left tibialis anterior
+FMA22546	right extensor hallucis longus
+FMA22547	left extensor hallucis longus
+FMA22548	right extensor digitorum longus
+FMA22549	left extensor digitorum longus
+FMA22550	right fibularis tertius
+FMA22551	left fibularis tertius
+FMA22552	right fibularis longus
+FMA22553	left fibularis longus
+FMA22554	right fibularis brevis
+FMA22555	left fibularis brevis
+FMA22558	right soleus
+FMA22559	left soleus
+FMA22560	right plantaris
+FMA22561	left plantaris
+FMA22591	right popliteus
+FMA22592	left popliteus
+FMA22726	right splenius cervicis
+FMA22727	left splenius cervicis
+FMA22728	right splenius capitis
+FMA22729	left splenius capitis
+FMA22740	right iliocostalis lumborum
+FMA22741	left iliocostalis lumborum
+FMA22742	right iliocostalis thoracis
+FMA22743	left iliocostalis thoracis
+FMA22744	right iliocostalis cervicis
+FMA22745	left iliocostalis cervicis
+FMA22751	right longissimus thoracis
+FMA22753	left longissimus thoracis
+FMA22754	right longissimus capitis
+FMA22756	left longissimus capitis
+FMA22757	right longissimus cervicis
+FMA22758	left longissimus cervicis
+FMA22770	spinalis cervicis
+FMA22779	right spinalis thoracis
+FMA22780	left spinalis thoracis
+FMA22781	right spinalis cervicis
+FMA22782	left spinalis cervicis
+FMA22872	right semispinalis thoracis
+FMA22873	left semispinalis thoracis
+FMA22874	right semispinalis cervicis
+FMA22875	left semispinalis cervicis
+FMA22876	right semispinalis capitis
+FMA22877	left semispinalis capitis
+FMA22878	right multifidus
+FMA22879	left multifidus
+FMA23089	right lumbar rotator
+FMA23090	left lumbar rotator
+FMA230986	middle phalanx of right little toe
+FMA230988	middle phalanx of left little toe
+FMA23130	right humerus
+FMA23131	left humerus
+FMA23464	right radius
+FMA23465	left radius
+FMA23467	right ulna
+FMA23468	left ulna
+FMA23707	interosseous membrane of right forearm
+FMA23708	interosseous membrane of left forearm
+FMA23725	right trapezoid
+FMA23938	middle phalanx of left index finger
+FMA23940	middle phalanx of left middle finger
+FMA23942	middle phalanx of left ring finger
+FMA23944	middle phalanx of left little finger
+FMA23951	distal phalanx of left thumb
+FMA23953	distal phalanx of left index finger
+FMA23955	distal phalanx of left middle finger
+FMA23957	distal phalanx of left ring finger
+FMA23959	distal phalanx of left little finger
+FMA24435	right scaphoid
+FMA24436	left scaphoid
+FMA24437	right lunate
+FMA24438	left lunate
+FMA24439	right triquetral
+FMA24440	left triquetral
+FMA24441	right pisiform
+FMA24442	left pisiform
+FMA24443	right trapezium
+FMA24444	left trapezium
+FMA24445	left trapezoid
+FMA24446	right capitate
+FMA24447	left capitate
+FMA24448	right hamate
+FMA24449	left hamate
+FMA24450	proximal phalanx of right thumb
+FMA24451	proximal phalanx of right index finger
+FMA24452	proximal phalanx of right middle finger
+FMA24453	proximal phalanx of right ring finger
+FMA24454	proximal phalanx of right little finger
+FMA24455	middle phalanx of right index finger
+FMA24456	middle phalanx of right middle finger
+FMA24457	middle phalanx of right ring finger
+FMA24458	middle phalanx of right little finger
+FMA24459	distal phalanx of right thumb
+FMA24460	distal phalanx of right index finger
+FMA24461	distal phalanx of right middle finger
+FMA24462	distal phalanx of right ring finger
+FMA24463	distal phalanx of right little finger
+FMA24464	right first metacarpal bone
+FMA24465	left first metacarpal bone
+FMA24466	right second metacarpal bone
+FMA24467	left second metacarpal bone
+FMA24468	right third metacarpal bone
+FMA24469	left third metacarpal bone
+FMA24470	right fourth metacarpal bone
+FMA24471	left fourth metacarpal bone
+FMA24472	right fifth metacarpal bone
+FMA24473	left fifth metacarpal bone
+FMA24474	right femur
+FMA24475	left femur
+FMA24477	right tibia
+FMA24478	left tibia
+FMA24480	right fibula
+FMA24481	left fibula
+FMA24482	right talus
+FMA24483	left talus
+FMA24486	right patella
+FMA24487	left patella
+FMA24497	right calcaneus
+FMA24498	left calcaneus
+FMA24500	navicular bone of right foot
+FMA24501	navicular bone of left foot
+FMA24507	right first metatarsal bone
+FMA24508	left first metatarsal bone
+FMA24509	right second metatarsal bone
+FMA24510	left second metatarsal bone
+FMA24511	right third metatarsal bone
+FMA24512	left third metatarsal bone
+FMA24513	right fourth metatarsal bone
+FMA24514	left fourth metatarsal bone
+FMA24515	right fifth metatarsal bone
+FMA24516	left fifth metatarsal bone
+FMA24521	right medial cuneiform bone
+FMA24522	left medial cuneiform bone
+FMA24523	right intermediate cuneiform bone
+FMA24524	left intermediate cuneiform bone
+FMA24525	right lateral cuneiform bone
+FMA24526	left lateral cuneiform bone
+FMA24528	right cuboid bone
+FMA24529	left cuboid bone
+FMA25058	intervertebral disk of axis
+FMA258714	right thalamus
+FMA258716	left thalamus
+FMA258847	right calcaneal tendon
+FMA258850	right intermediate tendon
+FMA264840	left intermediate tendon
+FMA264844	left calcaneal tendon
+FMA274027	choroid plexus of right cerebral hemisphere
+FMA274029	choroid plexus of left cerebral hemisphere
+FMA32530	right rectus capitis posterior major
+FMA32531	left rectus capitis posterior major
+FMA32532	right rectus capitis posterior minor
+FMA32533	left rectus capitis posterior minor
+FMA32534	right obliquus capitis superior
+FMA32535	left obliquus capitis superior
+FMA32536	right obliquus capitis inferior
+FMA32537	left obliquus capitis inferior
+FMA32540	right levator scapulae
+FMA32541	left levator scapulae
+FMA32544	right supraspinatus
+FMA32545	left supraspinatus
+FMA32547	right infraspinatus muscle
+FMA32548	left infraspinatus muscle
+FMA32551	right teres major
+FMA32552	left teres major
+FMA32553	right teres minor
+FMA32554	left teres minor
+FMA32634	proximal phalanx of right second toe
+FMA32635	proximal phalanx of left second toe
+FMA32636	proximal phalanx of right third toe
+FMA32637	proximal phalanx of left third toe
+FMA32638	proximal phalanx of right fourth toe
+FMA32639	proximal phalanx of left fourth toe
+FMA32640	proximal phalanx of right little toe
+FMA32641	proximal phalanx of left little toe
+FMA32642	middle phalanx of right second toe
+FMA32643	middle phalanx of left second toe
+FMA32644	middle phalanx of right third toe
+FMA32645	middle phalanx of left third toe
+FMA32646	middle phalanx of right fourth toe
+FMA32647	middle phalanx of left fourth toe
+FMA32650	distal phalanx of right big toe
+FMA32651	distal phalanx of left big toe
+FMA32652	distal phalanx of right second toe
+FMA32653	distal phalanx of left second toe
+FMA32654	distal phalanx of right third toe
+FMA32655	distal phalanx of left third toe
+FMA32656	distal phalanx of right fourth toe
+FMA32657	distal phalanx of left fourth toe
+FMA32658	distal phalanx of right little toe
+FMA32659	distal phalanx of left little toe
+FMA33581	ascending part of right trapezius
+FMA33583	ascending part of left trapezius
+FMA33584	transverse part of right trapezius
+FMA33585	transverse part of left trapezius
+FMA33586	descending part of right trapezius
+FMA33587	descending part of left trapezius
+FMA34680	clavicular part of right deltoid
+FMA34681	clavicular part of left deltoid
+FMA34682	acromial part of right deltoid
+FMA34683	acromial part of left deltoid
+FMA34684	spinal part of right deltoid
+FMA34685	spinal part of left deltoid
+FMA34690	clavicular part of right pectoralis major
+FMA34691	clavicular part of left pectoralis major
+FMA35192	interosseous membrane of right leg
+FMA35193	interosseous membrane of left leg
+FMA37386	right abductor pollicis brevis
+FMA37387	left abductor pollicis brevis
+FMA37390	right opponens pollicis
+FMA37391	left opponens pollicis
+FMA37396	abductor digiti minimi of right hand
+FMA37397	abductor digiti minimi of left hand
+FMA37398	flexor digiti minimi brevis of right hand
+FMA37399	flexor digiti minimi brevis of left hand
+FMA37400	opponens digiti minimi of right hand
+FMA37401	opponens digiti minimi of left hand
+FMA37459	right abductor hallucis
+FMA37460	left abductor hallucis
+FMA37461	right flexor digitorum brevis
+FMA37462	left flexor digitorum brevis
+FMA37463	abductor digiti minimi of right foot
+FMA37464	abductor digiti minimi of left foot
+FMA37465	right flexor accessorius
+FMA37466	left flexor accessorius
+FMA37471	flexor digiti minimi brevis of right foot
+FMA37472	flexor digiti minimi brevis of left foot
+FMA37483	fourth lumbrical of right foot
+FMA37484	fourth lumbrical of left foot
+FMA37485	third lumbrical of right foot
+FMA37486	third lumbrical of left foot
+FMA37665	right coracobrachialis
+FMA37666	left coracobrachialis
+FMA37668	right brachialis
+FMA37669	left brachialis
+FMA37684	short head of right biceps brachii
+FMA37685	short head of left biceps brachii
+FMA37686	long head of right biceps brachii
+FMA37687	long head of left biceps brachii
+FMA37695	medial head of right triceps brachii
+FMA37696	medial head of left triceps brachii
+FMA37697	lateral head of right triceps brachii
+FMA37698	lateral head of left triceps brachii
+FMA37699	long head of right triceps brachii
+FMA37700	long head of left triceps brachii
+FMA37705	right anconeus
+FMA37706	left anconeus
+FMA37717	first lumbrical of right foot
+FMA37718	first lumbrical of left foot
+FMA37719	second lumbrical of right foot
+FMA37720	second lumbrical of left foot
+FMA37741	third plantar interosseous of right foot
+FMA37742	third plantar interosseous of left foot
+FMA37743	second plantar interosseous of right foot
+FMA37744	second plantar interosseous of left foot
+FMA37745	first plantar interosseous of right foot
+FMA37746	first plantar interosseous of left foot
+FMA3802	trunk of right coronary artery
+FMA3840nsn	posterior interventricular branch of right coronary artery, nsn
+FMA38454	right pronator quadratus
+FMA38455	left pronator quadratus
+FMA38460	right flexor carpi radialis
+FMA38461	left flexor carpi radialis
+FMA38463	right palmaris longus
+FMA38464	left palmaris longus
+FMA38479	right flexor digitorum profundus
+FMA38480	left flexor digitorum profundus
+FMA38482	right flexor pollicis longus
+FMA38484	left flexor pollicis longus
+FMA38486	right brachioradialis
+FMA38487	left brachioradialis
+FMA38495	right extensor carpi radialis longus
+FMA38496	left extensor carpi radialis longus
+FMA38498	right extensor carpi radialis brevis
+FMA38499	left extensor carpi radialis brevis
+FMA38501	right extensor digitorum
+FMA38502	left extensor digitorum
+FMA38504	right extensor digiti minimi
+FMA38505	left extensor digiti minimi
+FMA38507	right extensor carpi ulnaris
+FMA38508	left extensor carpi ulnaris
+FMA38513	right supinator
+FMA38514	left supinator
+FMA38516	right abductor pollicis longus
+FMA38517	left abductor pollicis longus
+FMA38519	right extensor pollicis brevis
+FMA38520	left extensor pollicis brevis
+FMA38522	right extensor pollicis longus
+FMA38523	left extensor pollicis longus
+FMA38525	right extensor indicis
+FMA38526	left extensor indicis
+FMA38560	humeral head of right pronator teres
+FMA38561	humeral head of left pronator teres
+FMA38562	ulnar head of right pronator teres
+FMA38563	ulnar head of left pronator teres
+FMA38617	humeral head of right flexor carpi ulnaris
+FMA38618	humeral head of left flexor carpi ulnaris
+FMA38619	ulnar head of right flexor carpi ulnaris
+FMA38620	ulnar head of left flexor carpi ulnaris
+FMA3862nsn	anterior interventricular branch of left coronary artery, nsn
+FMA38638	humeroulnar head of right flexor digitorum superficialis
+FMA38639	humeroulnar head of left flexor digitorum superficialis
+FMA38640	radial head of right flexor digitorum superficialis
+FMA38641	radial head of left flexor digitorum superficialis
+FMA38928	right rectus femoris
+FMA38929	left rectus femoris
+FMA38930	right vastus lateralis
+FMA38931	left vastus lateralis
+FMA38932	right vastus medialis
+FMA38933	left vastus medialis
+FMA38934	right vastus intermedius
+FMA38935	left vastus intermedius
+FMA3932nsn	brachiocephalic artery, nsn
+FMA3941	right common carotid artery
+FMA3953	right subclavian artery
+FMA40120	flexor retinaculum of right wrist
+FMA40121	flexor retinaculum of left wrist
+FMA4058	left common carotid artery
+FMA42398	set of lumbricals of right hand
+FMA42399	set of lumbricals of left hand
+FMA42402	set of palmar interossei of right hand
+FMA42403	set of palmar interossei of left hand
+FMA42404	set of dorsal interossei of right hand
+FMA42405	set of dorsal interossei of left hand
+FMA43253	proximal phalanx of right big toe
+FMA43254	proximal phalanx of left big toe
+FMA43883	right gracilis
+FMA43884	left gracilis
+FMA43886	right adductor minimus
+FMA43887	left adductor minimus
+FMA44249	right long plantar ligament
+FMA44250	left long plantar ligament
+FMA45097	sesamoid bone of right foot
+FMA45098	sesamoid bone of left foot
+FMA45739	right platysma
+FMA45740	left platysma
+FMA45826	right stylohyoid
+FMA45827	left stylohyoid
+FMA45854	right pubococcygeus
+FMA45855	left pubococcygeus
+FMA45856	right puborectalis
+FMA45857	left puborectalis
+FMA45858	right iliococcygeus
+FMA45859	left iliococcygeus
+FMA45874	abdominal part of right pectoralis major
+FMA45875	abdominal part of left pectoralis major
+FMA45888	long head of right biceps femoris
+FMA45889	long head of left biceps femoris
+FMA45891	short head of right biceps femoris
+FMA45892	short head of left biceps femoris
+FMA45957	medial head of right gastrocnemius
+FMA45958	medial head of left gastrocnemius
+FMA45960	lateral head of right gastrocnemius
+FMA45961	lateral head of left gastrocnemius
+FMA45971	medial head of right flexor hallucis brevis
+FMA45972	medial head of left flexor hallucis brevis
+FMA45973	lateral head of right flexor hallucis brevis
+FMA45974	lateral head of left flexor hallucis brevis
+FMA46018	oblique head of right adductor hallucis
+FMA46019	oblique head of left adductor hallucis
+FMA46020	transverse head of right adductor hallucis
+FMA46021	transverse head of left adductor hallucis
+FMA46110	deep head of right flexor pollicis brevis
+FMA46111	deep head of left flexor pollicis brevis
+FMA46121	oblique head of right adductor pollicis
+FMA46122	oblique head of left adductor pollicis
+FMA46123	transverse head of right adductor pollicis
+FMA46124	transverse head of left adductor pollicis
+FMA46283	superior oblique part of right longus colli
+FMA46284	superior oblique part of left longus colli
+FMA46285	vertical intermediate part of right longus colli
+FMA46286	vertical intermediate part of left longus colli
+FMA46287	inferior oblique part of right longus colli
+FMA46288	inferior oblique part of left longus colli
+FMA46304	anterior belly of right digastric
+FMA46305	anterior belly of left digastric
+FMA46306	posterior belly of right digastric
+FMA46307	posterior belly of left digastric
+FMA46309	right longus capitis
+FMA46310	left longus capitis
+FMA46313	right rectus capitis anterior
+FMA46314	left rectus capitis anterior
+FMA46317	right rectus capitis lateralis
+FMA46318	left rectus capitis lateralis
+FMA46321	right mylohyoid
+FMA46322	left mylohyoid
+FMA46326	right geniohyoid
+FMA46327	left geniohyoid
+FMA46443	right coccygeus
+FMA46444	left coccygeus
+FMA46759	right frontalis
+FMA46760	left frontalis
+FMA46761	right occipitalis
+FMA46762	left occipitalis
+FMA46763	right temporoparietalis
+FMA46764	left temporoparietalis
+FMA46782	orbital part of right orbicularis oculi
+FMA46783	orbital part of left orbicularis oculi
+FMA46785	palpebral part of right orbicularis oculi
+FMA46786	palpebral part of left orbicularis oculi
+FMA46796	right corrugator supercilii
+FMA46797	left corrugator supercilii
+FMA46803	right levator labii superioris alaeque nasi
+FMA46804	left levator labii superioris alaeque nasi
+FMA46806	right levator labii superioris
+FMA46807	left levator labii superioris
+FMA46812	right zygomaticus major
+FMA46813	left zygomaticus major
+FMA46814	right zygomaticus minor
+FMA46815	left zygomaticus minor
+FMA46817	right depressor labii inferioris
+FMA46818	left depressor labii inferioris
+FMA46823	right levator anguli oris
+FMA46824	left levator anguli oris
+FMA46826	right mentalis
+FMA46827	left mentalis
+FMA46829	right depressor anguli oris
+FMA46830	left depressor anguli oris
+FMA46835	right buccinator
+FMA46836	left buccinator
+FMA46839	right risorius
+FMA46840	left risorius
+FMA4685	stem of left coronary artery
+FMA4694	left subclavian artery
+FMA4751	right brachiocephalic vein
+FMA4754	right internal jugular vein
+FMA4755	right subclavian vein
+FMA4761	left brachiocephalic vein
+FMA4762	left internal jugular vein
+FMA4763	left subclavian vein
+FMA49001	superficial part of right masseter
+FMA49002	superficial part of left masseter
+FMA49004	deep part of right masseter
+FMA49005	deep part of left masseter
+FMA49007	right temporalis
+FMA49008	left temporalis
+FMA49012	right medial pterygoid
+FMA49013	left medial pterygoid
+FMA49022	lower head of right lateral pterygoid
+FMA49023	lower head of left lateral pterygoid
+FMA49024	upper head of right lateral pterygoid
+FMA49025	upper head of left lateral pterygoid
+FMA50737	celiac artery
+FMA50875	right optic nerve
+FMA50878	left optic nerve
+FMA51142	right extensor digitorum brevis
+FMA51143	left extensor digitorum brevis
+FMA51144	right extensor hallucis brevis
+FMA51145	left extensor hallucis brevis
+FMA52738	right temporal bone
+FMA52739	left temporal bone
+FMA52788	right parietal bone
+FMA52789	left parietal bone
+FMA52892	right zygomatic bone
+FMA52893	left zygomatic bone
+FMA53645	right lacrimal bone
+FMA53646	left lacrimal bone
+FMA53647	right nasal bone
+FMA53648	left nasal bone
+FMA53649	right maxilla
+FMA53650	left maxilla
+FMA53655	right palatine bone
+FMA53656	left palatine bone
+FMA54737	right inferior nasal concha
+FMA54738	left inferior nasal concha
+FMA55606	right nasalis
+FMA55607	left nasalis
+FMA55608	right depressor septi nasi
+FMA55609	left depressor septi nasi
+FMA55610	right procerus
+FMA55611	left procerus
+FMA55680	right upper lateral secondary incisor tooth
+FMA55681	right upper central secondary incisor tooth
+FMA55682	left upper central secondary incisor tooth
+FMA55683	left upper lateral secondary incisor tooth
+FMA55686	right lower secondary canine tooth
+FMA55687	left lower secondary canine tooth
+FMA55688	right upper second secondary premolar tooth
+FMA55689	right upper first secondary premolar tooth
+FMA55690	left upper first secondary premolar tooth
+FMA55691	left upper second secondary premolar tooth
+FMA55692	left lower second secondary premolar tooth
+FMA55693	left lower first secondary premolar tooth
+FMA55694	right lower first secondary premolar tooth
+FMA55695	right lower second secondary premolar tooth
+FMA55697	right upper second secondary molar tooth
+FMA55698	right upper first secondary molar tooth
+FMA55699	left upper first secondary molar tooth
+FMA55700	left upper second secondary molar tooth
+FMA55703	left lower second secondary molar tooth
+FMA55704	left lower first secondary molar tooth
+FMA55705	right lower first secondary molar tooth
+FMA55706	right lower second secondary molar tooth
+FMA55798	right upper secondary canine tooth
+FMA55799	left upper secondary canine tooth
+FMA57140	right lower lateral secondary incisor tooth
+FMA57141	left lower lateral secondary incisor tooth
+FMA57142	right lower central secondary incisor tooth
+FMA57143	left lower central secondary incisor tooth
+FMA58776	right iliotibial tract
+FMA58777	left iliotibial tract
+FMA59763	gingiva of upper jaw
+FMA59764	gingiva of lower jaw
+FMA59815nsn	labial part of mouth, nsn
+FMA61822	white matter structure of cerebral hemisphere
+FMA61993nsn	midbrain, nsn
+FMA62008nsn	hypothalamus, nsn
+FMA62382	right optic tract
+FMA65014	right flexor hallucis longus
+FMA65015	left flexor hallucis longus
+FMA65016	right flexor digitorum longus
+FMA65017	left flexor digitorum longus
+FMA65018	right tibialis posterior
+FMA65019	left tibialis posterior
+FMA65198	superficial head of right flexor pollicis brevis
+FMA65199	superficial head of left flexor pollicis brevis
+FMA65470	proximal phalanx of left thumb
+FMA66326	pulmonary artery
+FMA66643	pulmonary vein
+FMA66791	proximal phalanx of left little finger
+FMA67936	left optic tract
+FMA71194	right lobe of thymus
+FMA71195	left lobe of thymus
+FMA71908	proximal phalanx of left middle finger
+FMA71915	proximal phalanx of left index finger
+FMA71916	proximal phalanx of left ring finger
+FMA7198nsn	pancreas, nsn
+FMA7204	right kidney
+FMA7205	left kidney
+FMA7211	right testis
+FMA7212	left testis
+FMA7259	papillary muscle of right ventricle
+FMA72653	right superior frontal gyrus
+FMA72654	left superior frontal gyrus
+FMA72655	right middle frontal gyrus
+FMA72656	left middle frontal gyrus
+FMA72661	right precentral gyrus
+FMA72662	left precentral gyrus
+FMA72665	right postcentral gyrus
+FMA72666	left postcentral gyrus
+FMA72667	right supramarginal gyrus
+FMA72668	left supramarginal gyrus
+FMA72669	right angular gyrus
+FMA72670	left angular gyrus
+FMA72685	right middle temporal gyrus
+FMA72686	left middle temporal gyrus
+FMA72687	right inferior temporal gyrus
+FMA72688	left inferior temporal gyrus
+FMA72689	right fusiform gyrus
+FMA72690	left fusiform gyrus
+FMA72701	right accessory short gyrus
+FMA72702	left accessory short gyrus
+FMA72705	right parahippocampal gyrus
+FMA72706	left parahippocampal gyrus
+FMA72713	right hippocampus
+FMA72714	left hippocampus
+FMA72717	right cingulate gyrus
+FMA72718	left cingulate gyrus
+FMA7274	wall of heart
+FMA72800	anterior part of right superior temporal gyrus
+FMA72801	anterior part of left superior temporal gyrus
+FMA72804	posterior part of right superior temporal gyrus
+FMA72805	posterior part of left superior temporal gyrus
+FMA72826	right caudate nucleus
+FMA72827	left caudate nucleus
+FMA72828	right putamen
+FMA72829	left putamen
+FMA72830	right globus pallidus
+FMA72831	left globus pallidus
+FMA72832	right amygdala
+FMA72833	left amygdala
+FMA72908	anterior limb of right internal capsule
+FMA72909	anterior limb of left internal capsule
+FMA72924	right fornix of forebrain
+FMA72925	left fornix of forebrain
+FMA72939	right stria terminalis
+FMA72940	left stria terminalis
+FMA72975	right occipital lobe
+FMA72976	left occipital lobe
+FMA72977	right insula
+FMA72978	left insula
+FMA73303	right lateral geniculate body
+FMA73304	left lateral geniculate body
+FMA73309	right medial geniculate body
+FMA73310	left medial geniculate body
+FMA73413	right stria medullaris of thalamus
+FMA73414	left stria medullaris of thalamus
+FMA73422	right superior colliculus
+FMA73423	left superior colliculus
+FMA73434	right inferior colliculus
+FMA73435	left inferior colliculus
+FMA73461	brachium of right superior colliculus
+FMA73462	brachium of left superior colliculus
+FMA73463	brachium of right inferior colliculus
+FMA73464	brachium of left inferior colliculus
+FMA74075	set of right levatores costarum longi
+FMA74076	set of left levatores costarum longi
+FMA74077	set of right levatores costarum breves
+FMA74078	set of left levatores costarum breves
+FMA7409	bronchus
+FMA74140	set of dorsal interossei of right foot
+FMA74141	set of dorsal interossei of left foot
+FMA78449	right lateral ventricle
+FMA78450	left lateral ventricle
+FMA7857	right first rib
+FMA7875	right first costal cartilage
+FMA7882	right second rib
+FMA7886	right second costal cartilage
+FMA7909	right third rib
+FMA7913	right third costal cartilage
+FMA7957	right fourth rib
+FMA7976	right fourth costal cartilage
+FMA7987	left first rib
+FMA79979	sternocostal part of right pectoralis major
+FMA79980	sternocostal part of left pectoralis major
+FMA8005	left first costal cartilage
+FMA8012	left second rib
+FMA8031	left second costal cartilage
+FMA8039	left third rib
+FMA8058	left third costal cartilage
+FMA8066	right fifth rib
+FMA8070	right fifth costal cartilage
+FMA8093	left fifth rib
+FMA8112	left fifth costal cartilage
+FMA8148	left fourth rib
+FMA8167	left fourth costal cartilage
+FMA8175	right sixth rib
+FMA81752	right cervical rotator
+FMA81753	left cervical rotator
+FMA8194	right sixth costal cartilage
+FMA8202	left sixth rib
+FMA8221	left sixth costal cartilage
+FMA8229	right seventh rib
+FMA8248	right seventh costal cartilage
+FMA8256	left seventh rib
+FMA8275	left seventh costal cartilage
+FMA8283	right eighth rib
+FMA8310	left eighth rib
+FMA8364	right ninth rib
+FMA8391	left ninth rib
+FMA8445	right tenth rib
+FMA8472	left tenth rib
+FMA8531	right eleventh rib
+FMA8532	left eleventh rib
+FMA8533	right twelfth rib
+FMA8534	left twelfth rib
+FMA86034	opponens digiti minimi of right foot
+FMA86035	opponens digiti minimi of left foot
+FMA9165	first thoracic vertebra
+FMA9187	second thoracic vertebra
+FMA9209	third thoracic vertebra
+FMA9248	fourth thoracic vertebra
+FMA9352	papillary muscle of left ventricle
+FMA9352nsn	papillary muscle of left ventricle, nsn
+FMA9761	right transversus thoracis
+FMA9762	left transversus thoracis
+FMA9922	fifth thoracic vertebra
+FMA9945	sixth thoracic vertebra
+FMA9968	seventh thoracic vertebra
+FMA9991	eighth thoracic vertebra
