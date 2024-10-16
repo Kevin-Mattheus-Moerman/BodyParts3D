@@ -1,3 +1,4 @@
+using BodyParts3D
 using GLMakie
 using MeshIO
 using FileIO

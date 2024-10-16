@@ -4,6 +4,7 @@ using MeshIO
 using ProgressMeter
 using GeometryBasics
 using GLMakie
+using GLMakie.Colors
 
 function bp3ddir()
     joinpath(@__DIR__, "..","assets","BodyParts3D_data")
@@ -53,8 +54,7 @@ function plotall_stl(ax; stlDir = joinpath(bp3ddir(),"stl"))
         _,fExt = splitext(f)        
         if fExt == ".stl" # If the current file is an STL file
             M = load(joinpath(stlDir,f)) # Load as mesh            
-            mesh!(ax, M, color =  :white ,transparency=true,shading = FastShading)
-            
+            mesh!(ax, M, color =  RGBAf(rand(1)[1],rand(1)[1],rand(1)[1],1) ,transparency=true,shading = FastShading)            
         end
     end
 end

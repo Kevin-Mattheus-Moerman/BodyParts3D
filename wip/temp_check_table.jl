@@ -10,7 +10,6 @@ FMA_key = CSV.File(joinpath(dataDir,"composite_parts.txt"))
 
 composite_name_select = Set(["skeletal system",""])
 
-
 fig = Figure(size = (800,800))
 ax = Axis3(fig[1, 1], aspect = :data)
 
