@@ -1,15 +1,14 @@
 module BodyParts3D
+    using CSV
+    using FileIO
+    using ProgressMeter
+    using GeometryBasics
 
-import CSV
-import FileIO
-import MeshIO
-import ProgressMeter
-import GeometryBasics
-import GLMakie
+    include("functions.jl")
 
-include("functions.jl")
-
-# Export functions
-export bp3ddir, objfolder2stlfolder, stl2png, plotall_stl
-
+    export GeometryBasics
+    
+    # Export functions
+    export bp3ddir, FMA_dict, get_preferred_label_FMAID, get_mesh_FMAID
+    export search_labels
 end # module BodyParts3D
